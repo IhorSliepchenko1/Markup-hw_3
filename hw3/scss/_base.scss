@@ -1,0 +1,26 @@
+.element {
+  width: 350px;
+  height: 220px;
+  padding: 15px 10px 20px 10px;
+  margin-bottom: 30px;
+  border: 2px dashed red;
+  background-color: green;
+}
+
+.text {
+  max-width: 750px;
+  margin-inline: auto;
+  text-align: justify;
+}
+
+.up {
+  width: 220px;
+  float: left;
+  margin: 0 20px 20px 0;
+}
+
+.down {
+  width: 150px;
+  float: right;
+  margin: 20px 0 20px 20px;
+}
